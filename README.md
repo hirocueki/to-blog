@@ -1,2 +1,1 @@
-# to-blog
-sg tryout blog project
+# トライアウト Blog
